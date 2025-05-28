@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ GENERAL ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ GENERAL ✦●✦
+#EXTINF: tvg-id="" tvg-name="✦●✦ GENERAL ✦●✦" tvg-logo="https://lo1.in/BR/flag.png" group-title="AM | BRAZIL HD",✦●✦ GENERAL ✦●✦
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171283.m3u8
-#EXTINF:-1 tvg-id="amc.br" tvg-name="BR| AMC HD" tvg-logo="https://lo1.in/BR/amc.png" group-title="AM | BRAZIL HD",BR| AMC HD
+#EXTINF: tvg-id="amc.br" tvg-name="BR| AMC HD" tvg-logo="https://lo1.in/BR/amc.png" group-title="AM | BRAZIL HD",BR| AMC HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR| ANHANGUERA GOIANIA" tvg-logo="https://lo1.in/BR/anhago.png" group-title="AM | BRAZIL HD",BR| ANHANGUERA GOIANIA
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162391.m3u8
+http://zkbvzkj.megahdtv.xyz:80/liv⁸e/1103581436/4099381829/162391.m3u8
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="BR| ARTE 1 HD" tvg-logo="https://lo1.in/BR/art.png" group-title="AM | BRAZIL HD",BR| ARTE 1 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171325.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR| BAHIA HD" tvg-logo="https://lo1.in/BR/bahia0.png" group-title="AM | BRAZIL HD",BR| BAHIA HD
