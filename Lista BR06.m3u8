@@ -1,5 +1,5 @@
 #EXTINF:tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 HD" tvg-logo="https://i/BR/spt2.png" group-title="AM | BRAZIL HD",BR| SPORTV 2 HD
-http://zkbvzkj.megahdtv.xyz:80.80/live/1103581436/4099381829/171308.m3u8
+http://zkbvzkj.megahdtv.xyz:8080/live/1103581436/4099381829/171308.m3u8
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="BR| ARTE 1 HD" tvg-logo="https://lo1.in/BR/art.png" group-title="AM | BRAZIL HD",BR| ARTE 1 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171325.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR| BAHIA HD" tvg-logo="https://lo1.in/BR/bahia0.png" group-title="AM | BRAZIL HD",BR| BAHIA HD
